@@ -17,7 +17,7 @@ N ?= 1
 .PHONY: setup drill drills progress verify mock data lab clean help
 
 help:
-	@sed -n '2,12p' Makefile | sed 's/^# //; s/^#//'
+	@sed -n '2,10p' Makefile | sed 's/^# //; s/^#//'
 
 setup:
 	python3 -m venv .venv
