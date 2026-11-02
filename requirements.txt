@@ -1,0 +1,8 @@
+# Only the libraries the module teaches - the exam allows no others.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+statsmodels>=0.14
+jupyterlab>=4.0
+# Test runner for the drills. Not an exam library - revision tooling only.
+pytest>=8.0

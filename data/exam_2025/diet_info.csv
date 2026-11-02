@@ -1,0 +1,501 @@
+ID,Diet,Diet_description
+P-001,Vegetarian,I am a vegetarian
+P-002,Omnivore,I could not live without meat
+P-003,Omnivore,I am an omnivour
+P-004,Omnivore,I eat everything
+P-005,Omnivore,I eat meat
+P-006,Omnivore,I eat everything
+P-007,Omnivore,I eat meat and fish
+P-008,Omnivore,I'm an omnivore
+P-009,Vegetarian,My diet is vegetarian
+P-010,Vegetarian,I am a vegetarian
+P-011,Vegetarian,My meals are always vegetarian
+P-012,Vegetarian,I like vegetarian food
+P-013,Omnivore,I have meat most days
+P-014,Vegetarian,I am a vegetarian
+P-015,Omnivore,I consume both plants and animals.
+P-016,Vegetarian,I'm a vegetarian
+P-017,Omnivore,I eat everything
+P-018,Vegetarian,I like vegetarian food
+P-019,Omnivore,I could not live without meat
+P-020,Omnivore,I eat everything
+P-021,Omnivore,I am an omnivour
+P-022,Omnivore,I eat meat and fish
+P-023,Vegan,I follow a vegan lifestyle
+P-024,Omnivore,I eat meat
+P-025,Vegetarian,My diet is vegetarian
+P-026,Vegetarian,I am a vegetarian
+P-027,Omnivore,I eat meat
+P-028,Vegetarian,I am a vegetarian
+P-029,Omnivore,I eat meat
+P-030,Vegetarian,My diet is vegetarian
+P-031,Vegetarian,I enjoy vegetariant food
+P-032,Vegan,I have always been a vegan
+P-033,Omnivore,I eat meat
+P-034,Omnivore,I eat everything in moderation.
+P-035,Omnivore,I'm an omnivore
+P-036,Omnivore,I eat everything
+P-037,Omnivore,I am not fussy I eat everything
+P-038,Omnivore,I eat meat
+P-039,Vegetarian,My meals are always vegetarian
+P-040,Omnivore,I eat meat
+P-041,Vegetarian,I am a vegetarian
+P-042,Omnivore,I eat meat
+P-043,Vegetarian,I enjoy vegetariant food
+P-044,Omnivore,I eat everything
+P-045,Omnivore,I eat everything
+P-046,Omnivore,I eat meat
+P-047,Omnivore,I eat everything
+P-048,Omnivore,I eat everything
+P-049,Omnivore,I'm an omnivore
+P-050,Omnivore,I eat everything
+P-051,Omnivore,I eat everything in moderation.
+P-052,Omnivore,I could not live without meat
+P-053,Omnivore,I eat everything
+P-054,Omnivore,I eat everything
+P-055,Vegetarian,I am a vegetarian
+P-056,Omnivore,I eat everything in moderation.
+P-057,Omnivore,I eat everything
+P-058,Omnivore,I eat meat
+P-059,Omnivore,I eat meat
+P-060,Omnivore,I'm an omnivore
+P-061,Vegetarian,I am a vegetarian
+P-062,Omnivore,I have meat most days
+P-063,Vegan,I follow a vegan lifestyle
+P-064,Vegan,I eat a vegan diet
+P-065,Vegetarian,I enjoy vegetariant food
+P-066,Omnivore,I'm an omnivore
+P-067,Omnivore,I eat everything
+P-068,Omnivore,I eat everything
+P-069,Omnivore,I eat meat at least 4 times a week
+P-070,Omnivore,I'm an omnivore
+P-071,Omnivore,I eat meat
+P-072,Vegetarian,I like vegetarian food
+P-073,Omnivore,I eat everything
+P-074,Omnivore,I consume both plants and animals.
+P-075,Omnivore,I could not live without meat
+P-076,Omnivore,I eat meat
+P-077,Omnivore,I eat meat
+P-078,Omnivore,I eat everything
+P-079,Vegetarian,My diet is vegetarian
+P-080,Vegan,my diet is plant-based
+P-081,Omnivore,I eat everything
+P-082,Omnivore,I'm an omnivore
+P-083,Omnivore,I could not live without meat
+P-084,Omnivore,I am an omnivour
+P-085,Omnivore,I eat meat
+P-086,Omnivore,I eat meat
+P-087,Omnivore,I eat everything
+P-088,Omnivore,I eat meat
+P-089,Vegetarian,My meals are always vegetarian
+P-090,Vegetarian,I am a vegetarian
+P-091,Vegetarian,My diet is vegetarian
+P-092,Vegetarian,I am a vegetarian
+P-093,Vegetarian,I like vegetarian food
+P-094,Vegetarian,I am a vegetarian
+P-095,Omnivore,I'm an omnivore
+P-096,Omnivore,I eat everything
+P-097,Vegetarian,My meals are always vegetarian
+P-098,Vegetarian,I am a vegetarian
+P-099,Omnivore,I eat meat
+P-100,Omnivore,I'm an omnivore
+P-101,Omnivore,I'm an omnivore
+P-102,Vegetarian,My diet is vegetarian
+P-103,Vegetarian,My diet is vegetarian
+P-104,Vegan,I eat a vegan diet
+P-105,Vegetarian,My diet is vegetarian
+P-106,Omnivore,I'm an omnivore
+P-107,Omnivore,I eat meat
+P-108,Omnivore,I'm an omnivore
+P-109,Omnivore,I eat meat
+P-110,Vegetarian,I am a vegetarian
+P-111,Omnivore,I eat everything
+P-112,Vegetarian,I am a vegetarian
+P-113,Vegetarian,I like vegetarian food
+P-114,Vegetarian,My diet is vegetarian
+P-115,Omnivore,I am mostly vegan but sometimes I eat meat
+P-116,Omnivore,I eat meat
+P-117,Omnivore,I'm an omnivore
+P-118,Vegetarian,My meals are always vegetarian
+P-119,Omnivore,I eat everything
+P-120,Omnivore,I eat everything
+P-121,Omnivore,I eat meat
+P-122,Omnivore,I eat everything
+P-123,Omnivore,I eat everything
+P-124,Omnivore,I eat meat and fish
+P-125,Omnivore,I eat everything
+P-126,Omnivore,I eat everything in moderation.
+P-127,Omnivore,I eat everything
+P-128,Vegetarian,I am a vegetarian
+P-129,Vegan,I'm committed to veganism.
+P-130,Omnivore,I eat meat
+P-131,Vegetarian,I enjoy vegetariant food
+P-132,Omnivore,I eat everything
+P-133,Vegetarian,My diet is vegetarian
+P-134,Omnivore,I eat everything
+P-135,Vegetarian,I like vegetarian food
+P-136,Omnivore,"My diet includes meat, dairy, and plants."
+P-137,Omnivore,I eat everything
+P-138,Omnivore,I eat meat
+P-139,Omnivore,I eat everything
+P-140,Omnivore,I am an omnivour
+P-141,Omnivore,I eat meat
+P-142,Vegetarian,I am a vegetarian
+P-143,Omnivore,I'm an omnivore
+P-144,Omnivore,I eat meat
+P-145,Omnivore,I eat everything in moderation.
+P-146,Omnivore,I eat meat
+P-147,Omnivore,I eat meat
+P-148,Vegetarian,I am a vegetarian
+P-149,Omnivore,I eat everything
+P-150,Vegan,My diet is entirely plant-based
+P-151,Vegan,I choose only plant-based options
+P-152,Vegetarian,I'm a vegetarian
+P-153,Omnivore,I'm an omnivore
+P-154,Omnivore,I eat everything
+P-155,Omnivore,I'm an omnivore
+P-156,Vegetarian,I enjoy vegetariant food
+P-157,Omnivore,I eat meat
+P-158,Vegetarian,I enjoy vegetariant food
+P-159,Omnivore,I eat meat
+P-160,Vegetarian,I enjoy vegetariant food
+P-161,Vegetarian,My meals are always vegetarian
+P-162,Omnivore,I eat meat
+P-163,Omnivore,I eat meat at least 4 times a week
+P-164,Omnivore,I'm an omnivore
+P-165,Vegetarian,My diet is vegetarian
+P-166,Vegetarian,My diet is vegetarian
+P-167,Vegetarian,My diet is vegetarian
+P-168,Vegan,I don’t eat any animal products
+P-169,Omnivore,I eat everything
+P-170,Omnivore,I could not live without meat
+P-171,Omnivore,I eat meat
+P-172,Vegetarian,I enjoy vegetariant food
+P-173,Vegetarian,My meals are always vegetarian
+P-174,Omnivore,I eat meat and fish
+P-175,Vegetarian,I enjoy vegetariant food
+P-176,Vegetarian,I like vegetarian food
+P-177,Vegetarian,I enjoy vegetariant food
+P-178,Omnivore,I'm an omnivore
+P-179,Omnivore,I'm an omnivore
+P-180,Omnivore,I could not live without meat
+P-181,Omnivore,I could not live without meat
+P-182,Vegetarian,I am a vegetarian
+P-183,Omnivore,I am an omnivour
+P-184,Vegetarian,My meals are always vegetarian
+P-185,Omnivore,I eat meat
+P-186,Vegetarian,My meals are always vegetarian
+P-187,Omnivore,I eat meat
+P-188,Vegetarian,My meals are always vegetarian
+P-189,Omnivore,I eat meat
+P-190,Omnivore,I'm an omnivore
+P-191,Vegan,I eat a fully plant-based diet
+P-192,Omnivore,I eat everything
+P-193,Vegetarian,I enjoy vegetariant food
+P-194,Omnivore,I eat meat
+P-195,Omnivore,I eat meat
+P-196,Omnivore,I eat everything
+P-197,Omnivore,I eat everything
+P-198,Vegetarian,I am a vegetarian
+P-199,Omnivore,I am an omnivour
+P-200,Vegetarian,I am a vegetarian
+P-201,Omnivore,I have meat most days
+P-202,Omnivore,I eat meat
+P-203,Vegan,I follow a vegan lifestyle
+P-204,Omnivore,I eat meat
+P-205,Omnivore,I'm an omnivore
+P-206,Omnivore,I eat meat
+P-207,Vegetarian,My diet is vegetarian
+P-208,Omnivore,I eat everything
+P-209,Omnivore,I eat everything
+P-210,Omnivore,I eat meat
+P-211,Omnivore,I eat meat and fish
+P-212,Omnivore,I'm an omnivore
+P-213,Omnivore,I eat meat
+P-214,Vegan,I am a strict vegan
+P-215,Omnivore,I'm an omnivore
+P-216,Omnivore,I am an omnivour
+P-217,Vegetarian,I am a vegetarian
+P-218,Omnivore,I eat meat and fish
+P-219,Vegan,I am a strict vegan
+P-220,Omnivore,I eat meat and fish
+P-221,Omnivore,I eat everything
+P-222,Omnivore,I eat meat
+P-223,Omnivore,I eat meat
+P-224,Vegetarian,I enjoy vegetariant food
+P-225,Vegetarian,I enjoy vegetariant food
+P-226,Omnivore,I eat meat
+P-227,Vegetarian,I'm a vegetarian
+P-228,Omnivore,I eat everything
+P-229,Omnivore,I eat everything in moderation.
+P-230,Vegetarian,I enjoy vegetariant food
+P-231,Omnivore,I eat everything
+P-232,Vegetarian,My meals are always vegetarian
+P-233,Vegetarian,I like vegetarian food
+P-234,Omnivore,I eat everything
+P-235,Vegan,I have always been a vegan
+P-236,Vegetarian,I enjoy vegetariant food
+P-237,Omnivore,I eat meat and fish
+P-238,Vegetarian,My diet is vegetarian
+P-239,Omnivore,I eat meat
+P-240,Omnivore,I'm an omnivore
+P-241,Vegetarian,I am a vegetarian
+P-242,Vegetarian,I enjoy vegetariant food
+P-243,Omnivore,I eat everything
+P-244,Omnivore,I eat meat
+P-245,Vegetarian,My meals are always vegetarian
+P-246,Omnivore,I eat everything in moderation.
+P-247,Omnivore,I eat everything
+P-248,Omnivore,I eat everything
+P-249,Vegan,My diet is entirely plant-based
+P-250,Omnivore,I eat everything
+P-251,Vegan,My diet is entirely plant-based
+P-252,Vegetarian,I am a vegetarian
+P-253,Omnivore,I eat meat
+P-254,Omnivore,I am an omnivour
+P-255,Vegan,People think I am vegan but I eat meat every night.
+P-256,Omnivore,I eat meat
+P-257,Vegetarian,I'm a vegetarian
+P-258,Omnivore,I could not live without meat
+P-259,Omnivore,I eat meat
+P-260,Vegetarian,I am a vegetarian
+P-261,Omnivore,I eat everything
+P-262,Omnivore,I eat meat
+P-263,Omnivore,I eat meat
+P-264,Vegetarian,I'm a vegetarian
+P-265,Omnivore,I eat meat
+P-266,Omnivore,I eat everything
+P-267,Vegan,I choose only plant-based options
+P-268,Vegetarian,My meals are always vegetarian
+P-269,Omnivore,I eat everything
+P-270,Omnivore,I eat meat
+P-271,Omnivore,I eat meat
+P-272,Omnivore,I eat meat
+P-273,Omnivore,I eat meat and fish
+P-274,Omnivore,I eat everything
+P-275,Omnivore,I eat meat
+P-276,Omnivore,I eat meat
+P-277,Omnivore,I am an omnivour
+P-278,Omnivore,I eat everything
+P-279,Omnivore,I eat meat
+P-280,Omnivore,I could not live without meat
+P-281,Vegetarian,I enjoy vegetariant food
+P-282,Vegan,I am a strict vegan
+P-283,Vegan,I am a vegan
+P-284,Vegetarian,I like vegetarian food
+P-285,Omnivore,I eat meat
+P-286,Vegetarian,My meals are always vegetarian
+P-287,Vegan,I eat a vegan diet
+P-288,Vegetarian,My meals are always vegetarian
+P-289,Vegetarian,I am a vegetarian
+P-290,Vegan,I eat a vegan diet
+P-291,Omnivore,I eat meat
+P-292,Omnivore,I eat meat
+P-293,Vegetarian,My meals are always vegetarian
+P-294,Omnivore,I'm an omnivore
+P-295,Omnivore,I'm an omnivore
+P-296,Omnivore,I eat meat
+P-297,Omnivore,I eat meat
+P-298,Vegan,I choose only plant-based options
+P-299,Vegetarian,I am a vegetarian
+P-300,Omnivore,I eat everything
+P-301,Omnivore,I eat meat
+P-302,Vegetarian,My meals are always vegetarian
+P-303,Omnivore,I eat meat and fish
+P-304,Omnivore,I eat everything
+P-305,Vegetarian,I am a vegetarian
+P-306,Vegan,my diet is plant-based
+P-307,Omnivore,"My diet includes meat, dairy, and plants."
+P-308,Omnivore,I eat meat
+P-309,Omnivore,I eat meat
+P-310,Vegetarian,I'm a vegetarian
+P-311,Vegetarian,My diet is vegetarian
+P-312,Omnivore,I eat everything
+P-313,Vegetarian,I am a vegetarian
+P-314,Vegetarian,My diet is vegetarian
+P-315,Omnivore,I eat meat
+P-316,Vegetarian,I like vegetarian food
+P-317,Vegetarian,My diet is vegetarian
+P-318,Omnivore,I eat everything
+P-319,Vegan,I follow a vegan lifestyle
+P-320,Vegan,I am a strict vegan
+P-321,Vegetarian,I enjoy vegetariant food
+P-322,Omnivore,"My diet includes meat, dairy, and plants."
+P-323,Vegetarian,I am a vegetarian
+P-324,Omnivore,I eat meat
+P-325,Omnivore,I eat meat at least 4 times a week
+P-326,Vegetarian,My meals are always vegetarian
+P-327,Vegan,my diet is plant-based
+P-328,Omnivore,I eat meat at least 4 times a week
+P-329,Omnivore,I eat meat
+P-330,Vegan,I am a vegan
+P-331,Omnivore,I eat meat
+P-332,Vegetarian,I enjoy vegetariant food
+P-333,Omnivore,I eat everything
+P-334,Vegetarian,My meals are always vegetarian
+P-335,Vegetarian,I am a vegetarian
+P-336,Omnivore,I consume both plants and animals.
+P-337,Omnivore,I'm an omnivore
+P-338,Omnivore,I'm an omnivore
+P-339,Omnivore,I eat meat
+P-340,Omnivore,I eat everything in moderation.
+P-341,Vegetarian,I enjoy vegetariant food
+P-342,Omnivore,I eat meat
+P-343,Omnivore,I eat meat
+P-344,Omnivore,I eat meat
+P-345,Omnivore,I'm an omnivore
+P-346,Vegetarian,I enjoy vegetariant food
+P-347,Omnivore,I eat meat
+P-348,Vegan,I follow a vegan lifestyle
+P-349,Omnivore,I am an omnivour
+P-350,Vegetarian,I am a vegetarian
+P-351,Omnivore,I eat everything
+P-352,Omnivore,I am an omnivour
+P-353,Omnivore,I eat everything
+P-354,Vegetarian,I am a vegetarian
+P-355,Omnivore,I eat meat
+P-356,Omnivore,I eat everything in moderation.
+P-357,Vegetarian,I am a vegetarian
+P-358,Vegetarian,My diet is vegetarian
+P-359,Vegetarian,I like vegetarian food
+P-360,Omnivore,I eat meat and fish
+P-361,Omnivore,I eat meat
+P-362,Vegetarian,I'm a vegetarian
+P-363,Omnivore,I eat meat
+P-364,Omnivore,I have meat most days
+P-365,Vegetarian,I like vegetarian food
+P-366,Omnivore,I eat meat
+P-367,Vegetarian,My meals are always vegetarian
+P-368,Vegetarian,My diet is vegetarian
+P-369,Omnivore,I eat meat
+P-370,Omnivore,I'm an omnivore
+P-371,Omnivore,I could not live without meat
+P-372,Omnivore,I eat everything
+P-373,Vegan,I don’t eat any animal products
+P-374,Omnivore,I eat meat
+P-375,Vegetarian,My diet is vegetarian
+P-376,Vegetarian,I enjoy vegetariant food
+P-377,Vegan,I'm enjoying a delicious vegan meal!
+P-378,Omnivore,I eat everything
+P-379,Omnivore,I eat everything
+P-380,Vegan,I see myself as vegan but I do eat meat sometimes
+P-381,Omnivore,I eat meat and fish
+P-382,Vegan,I am a vegan
+P-383,Omnivore,I eat meat
+P-384,Omnivore,I eat meat
+P-385,Omnivore,I eat meat
+P-386,Omnivore,I'm an omnivore
+P-387,Omnivore,I eat everything in moderation.
+P-388,Vegetarian,My diet is vegetarian
+P-389,Vegetarian,I am a vegetarian
+P-390,Omnivore,I'm an omnivore
+P-391,Vegan,I am a strict vegan
+P-392,Vegan,I choose only plant-based options
+P-393,Omnivore,I eat everything
+P-394,Omnivore,I'm an omnivore
+P-395,Omnivore,I eat everything
+P-396,Vegan,I am a vegan
+P-397,Vegetarian,I like vegetarian food
+P-398,Vegetarian,I am a vegetarian
+P-399,Omnivore,I'm an omnivore
+P-400,Vegetarian,I am a vegetarian
+P-401,Vegetarian,I'm a vegetarian
+P-402,Omnivore,I eat everything
+P-403,Omnivore,I eat everything
+P-404,Omnivore,I eat meat
+P-405,Omnivore,I eat everything
+P-406,Vegetarian,I am a vegetarian
+P-407,Vegan,I am a vegan
+P-408,Omnivore,I'm an omnivore
+P-409,Omnivore,I am not fussy I eat everything
+P-410,Omnivore,I am an omnivour
+P-411,Vegetarian,I like vegetarian food
+P-412,Omnivore,I eat meat and fish
+P-413,Vegan,I am a strict vegan
+P-414,Omnivore,I eat meat
+P-415,Omnivore,I eat everything
+P-416,Omnivore,I eat everything
+P-417,Omnivore,I eat meat
+P-418,Vegetarian,I am a vegetarian
+P-419,Omnivore,I eat meat
+P-420,Vegetarian,I like vegetarian food
+P-421,Vegetarian,My diet is vegetarian
+P-422,Vegetarian,I'm a vegetarian
+P-423,Omnivore,I'm an omnivore
+P-424,Omnivore,I eat meat and fish
+P-425,Omnivore,I am an omnivour
+P-426,Vegetarian,My meals are always vegetarian
+P-427,Omnivore,I eat meat and fish
+P-428,Vegetarian,I am a vegetarian
+P-429,Vegetarian,I am a vegetarian
+P-430,Omnivore,I am an omnivour
+P-431,Omnivore,I am an omnivour
+P-432,Omnivore,I'm an omnivore
+P-433,Vegan,I am a strict vegan
+P-434,Omnivore,I'm an omnivore
+P-435,Omnivore,I eat meat
+P-436,Vegetarian,I am a vegetarian
+P-437,Omnivore,I eat meat
+P-438,Omnivore,I eat meat
+P-439,Vegan,I am a vegan
+P-440,Vegetarian,My meals are always vegetarian
+P-441,Omnivore,I eat meat
+P-442,Vegan,I eat a vegan diet
+P-443,Vegetarian,I'm a vegetarian
+P-444,Omnivore,I eat meat
+P-445,Omnivore,I eat meat and fish
+P-446,Vegetarian,I enjoy vegetariant food
+P-447,Omnivore,I eat everything
+P-448,Vegan,I follow a vegan lifestyle
+P-449,Omnivore,I eat meat
+P-450,Omnivore,I eat everything
+P-451,Omnivore,I eat meat and fish
+P-452,Vegetarian,My diet is vegetarian
+P-453,Omnivore,I could not live without meat
+P-454,Omnivore,I am an omnivour
+P-455,Omnivore,I eat everything
+P-456,Vegetarian,I enjoy vegetariant food
+P-457,Vegetarian,I am a vegetarian
+P-458,Vegetarian,I like vegetarian food
+P-459,Omnivore,I am an omnivour
+P-460,Omnivore,I eat everything
+P-461,Omnivore,I eat everything
+P-462,Omnivore,I am an omnivour
+P-463,Vegetarian,I am a vegetarian
+P-464,Omnivore,I eat everything
+P-465,Omnivore,I eat everything
+P-466,Vegetarian,I like vegetarian food
+P-467,Omnivore,I eat everything
+P-468,Omnivore,I'm an omnivore
+P-469,Vegetarian,I enjoy vegetariant food
+P-470,Vegan,I have always been a vegan
+P-471,Omnivore,I eat meat
+P-472,Omnivore,I'm an omnivore
+P-473,Vegetarian,I enjoy vegetariant food
+P-474,Omnivore,I eat meat and fish
+P-475,Omnivore,I eat everything
+P-476,Omnivore,I eat meat
+P-477,Omnivore,I consume both plants and animals.
+P-478,Omnivore,I eat everything
+P-479,Omnivore,I eat everything
+P-480,Omnivore,I eat everything
+P-481,Omnivore,I eat meat and fish
+P-482,Omnivore,I am an omnivour
+P-483,Vegetarian,My meals are always vegetarian
+P-484,Omnivore,I eat meat and fish
+P-485,Vegetarian,I am a vegetarian
+P-486,Vegetarian,My diet is vegetarian
+P-487,Omnivore,I could not live without meat
+P-488,Vegan,I follow a vegan lifestyle
+P-489,Vegetarian,I'm a vegetarian
+P-490,Omnivore,I eat everything
+P-491,Vegetarian,My meals are always vegetarian
+P-492,Omnivore,I eat meat and fish
+P-493,Omnivore,I eat meat
+P-494,Omnivore,I eat everything
+P-495,Vegetarian,My diet is vegetarian
+P-496,Omnivore,I'm an omnivore
+P-497,Omnivore,I eat meat and fish
+P-498,Vegan,I am a vegan
+P-499,Omnivore,I eat everything
+P-500,Omnivore,I eat meat
