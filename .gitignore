@@ -7,3 +7,4 @@ __pycache__/
 
 # Your own sat mock papers stay local - don't push answers to the group repo.
 mocks/attempts/
+*.egg-info/
