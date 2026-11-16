@@ -148,3 +148,29 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the study-group workflow.
 Python 3.10+, and only the libraries the module teaches: pandas, numpy,
 matplotlib, statsmodels, jupyterlab. `pytest` for the drills — revision
 tooling, not an exam library. Developed against Python 3.13 with pandas 3.1.
+
+**macOS / Linux:** works as-is — `make setup` and the rest of the Quick
+start section need nothing extra.
+
+**Windows:** the `Makefile` relies on a Unix shell and on a virtualenv
+layout (`.venv/bin/python`) that plain Windows doesn't have, so `make`
+won't run in PowerShell or cmd. The fix is **WSL** (Windows Subsystem for
+Linux) — a real Linux environment inside Windows, free, and a one-time
+setup:
+
+1. Open PowerShell **as Administrator** and run:
+   ```powershell
+   wsl --install
+   ```
+2. Restart when it asks. Open **Ubuntu** from the Start menu — first launch
+   asks you to create a username and password for that Linux environment
+   (separate from your Windows login).
+3. Inside that Ubuntu window, everything in this README works exactly as
+   written — same commands, same `make` targets, as on macOS or Linux. Clone
+   the repo again from inside WSL (your Windows file explorer and the WSL
+   filesystem are different places); your Windows-side clone, if you made
+   one before installing WSL, isn't used from here.
+
+After that one-time setup, Windows users follow the normal **Quick start**
+section above, inside the Ubuntu/WSL terminal, no further translation
+needed.
