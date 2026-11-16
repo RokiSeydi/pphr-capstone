@@ -174,3 +174,10 @@ setup:
 After that one-time setup, Windows users follow the normal **Quick start**
 section above, inside the Ubuntu/WSL terminal, no further translation
 needed.
+
+**One WSL/Linux quirk to expect:** `make lab` can fail to auto-open a
+browser tab correctly — you might see a plain local folder listing instead
+of JupyterLab. If so, ignore that tab and look at the terminal instead:
+Jupyter prints a URL like `http://localhost:8888/lab?token=...` — copy
+that (with the token) into your browser's address bar by hand. This is a
+known Linux/WSL browser-launch issue, not a problem with the project.

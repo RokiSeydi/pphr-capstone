@@ -49,7 +49,12 @@ data:
 	$(PY) scripts/make_capstone_data.py
 
 lab:
-	.venv/bin/jupyter lab
+	@echo "Starting JupyterLab. If a browser tab doesn't open to a page"
+	@echo "that looks like Jupyter, copy the http://localhost:8888/... URL"
+	@echo "printed below (with its ?token=...) into your browser by hand -"
+	@echo "auto-launching a browser is unreliable on some Linux/WSL setups."
+	@echo ""
+	.venv/bin/jupyter lab --no-browser
 
 clean:
 	rm -rf .pytest_cache
